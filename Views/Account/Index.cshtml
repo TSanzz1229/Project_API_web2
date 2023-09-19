@@ -1,0 +1,17 @@
+﻿<div id="top-header">
+			<div class="container">
+				<ul class="header-links pull-right">
+					<li><a href="/Admin/Index"><i class="fa fa-user-o"></i> Dasboard</a></li>
+				</ul>
+			</div>
+		</div>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <h1> Welcome admin</h1>
+}
+else
+{
+    <h1>Please go to the <a href="/Account/Login"> Login Page </a></h1>
+}
+

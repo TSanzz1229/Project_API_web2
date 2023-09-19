@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\AirPod\\airpods2.png",
+      "PackagePath": "staticwebassets\\img\\apple\\AirPod\\airpods2.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\AirPod\\airpods3.png",
+      "PackagePath": "staticwebassets\\img\\apple\\AirPod\\airpods3.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\AirPod\\airpods4.png",
+      "PackagePath": "staticwebassets\\img\\apple\\AirPod\\airpods4.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Ipad\\air5.png",
+      "PackagePath": "staticwebassets\\img\\apple\\Ipad\\air5.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Ipad\\pro11.png",
+      "PackagePath": "staticwebassets\\img\\apple\\Ipad\\pro11.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Ipad\\proM2.png",
+      "PackagePath": "staticwebassets\\img\\apple\\Ipad\\proM2.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Iphone\\13.jpeg",
+      "PackagePath": "staticwebassets\\img\\apple\\Iphone\\13.jpeg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Iphone\\13promax.png",
+      "PackagePath": "staticwebassets\\img\\apple\\Iphone\\13promax.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Iphone\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\apple\\Iphone\\14.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Iphone\\14promax.jpg",
+      "PackagePath": "staticwebassets\\img\\apple\\Iphone\\14promax.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Iphone\\15-Plus.jpg",
+      "PackagePath": "staticwebassets\\img\\apple\\Iphone\\15-Plus.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Iphone\\15-pro-max.jpg",
+      "PackagePath": "staticwebassets\\img\\apple\\Iphone\\15-pro-max.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Watch\\series7.png",
+      "PackagePath": "staticwebassets\\img\\apple\\Watch\\series7.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Watch\\series8.png",
+      "PackagePath": "staticwebassets\\img\\apple\\Watch\\series8.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\apple\\Watch\\series9.png",
+      "PackagePath": "staticwebassets\\img\\apple\\Watch\\series9.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Dien-Thoai\\oppo-a57.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Dien-Thoai\\oppo-a57.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Dien-Thoai\\oppo-find-x5-.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Dien-Thoai\\oppo-find-x5-.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Dien-Thoai\\oppo-reno.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Dien-Thoai\\oppo-reno.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Dien-Thoai\\oppo-reno8.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Dien-Thoai\\oppo-reno8.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Dien-Thoai\\oppo-reno8t-vang.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Dien-Thoai\\oppo-reno8t-vang.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Dong-Ho\\dong-ho-thong-minh-oppo.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Dong-Ho\\dong-ho-thong-minh-oppo.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Dong-Ho\\oppo-band-2-trang-xanh-1.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Dong-Ho\\oppo-band-2-trang-xanh-1.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Dong-Ho\\oppo-watch-2.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Dong-Ho\\oppo-watch-2.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\oppo\\Laptop\\laptop-oppo-a-series.png",
+      "PackagePath": "staticwebassets\\img\\oppo\\Laptop\\laptop-oppo-a-series.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\realme\\Phone\\realme11.png",
+      "PackagePath": "staticwebassets\\img\\realme\\Phone\\realme11.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\realme\\Phone\\realme5.png",
+      "PackagePath": "staticwebassets\\img\\realme\\Phone\\realme5.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\realme\\Phone\\realme7.png",
+      "PackagePath": "staticwebassets\\img\\realme\\Phone\\realme7.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\realme\\Phone\\realmec30s.png",
+      "PackagePath": "staticwebassets\\img\\realme\\Phone\\realmec30s.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\realme\\Phone\\realmec53s.png",
+      "PackagePath": "staticwebassets\\img\\realme\\Phone\\realmec53s.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\realme\\Watch\\watch2.png",
+      "PackagePath": "staticwebassets\\img\\realme\\Watch\\watch2.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\realme\\Watch\\watch3.png",
+      "PackagePath": "staticwebassets\\img\\realme\\Watch\\watch3.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\realme\\Watch\\watchs.png",
+      "PackagePath": "staticwebassets\\img\\realme\\Watch\\watchs.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Ipad\\galaxyS10+.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung\\Ipad\\galaxyS10+.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Ipad\\galaxyTab-A.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung\\Ipad\\galaxyTab-A.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Ipad\\galaxyTab-S8.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung\\Ipad\\galaxyTab-S8.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Ipad\\galaxyTab-a6 p585.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung\\Ipad\\galaxyTab-a6 p585.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Ipad\\galaxyTab-s7.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung\\Ipad\\galaxyTab-s7.jpg"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Phone\\GalaxyS23PLUS.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Phone\\GalaxyS23PLUS.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Phone\\galaxyA22.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Phone\\galaxyA22.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Phone\\galaxyA31.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Phone\\galaxyA31.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Phone\\galaxyS23Ultra.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Phone\\galaxyS23Ultra.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Phone\\galaxyZfold4.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Phone\\galaxyZfold4.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Phone\\galaxynote20ultra.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Phone\\galaxynote20ultra.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Phone\\galaxyzFLip4.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Phone\\galaxyzFLip4.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Watch\\galaxywatch.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Watch\\galaxywatch.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Watch\\gearfit2.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Watch\\gearfit2.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Watch\\smartwatchv700.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Watch\\smartwatchv700.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\img\\samsung\\Watch\\watchactive2.png",
+      "PackagePath": "staticwebassets\\img\\samsung\\Watch\\watchactive2.png"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\js\\jquery.zoom.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.zoom.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Baitapchung\\CongNghePhanMem\\PhoneShopASPnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PhoneShopASPnet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PhoneShopASPnet.props",
+      "PackagePath": "build\\PhoneShopASPnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PhoneShopASPnet.props",
+      "PackagePath": "buildMultiTargeting\\PhoneShopASPnet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PhoneShopASPnet.props",
+      "PackagePath": "buildTransitive\\PhoneShopASPnet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

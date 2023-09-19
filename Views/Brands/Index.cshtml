@@ -1,0 +1,36 @@
+﻿@model IEnumerable<PhoneShopASPnet.Models.Brand>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+<h1> Brand Manage </h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="w3-container">
+    <table class="w3-table-all w3-hoverable">
+        <tr class="w3-light-grey">
+            <th> @Html.DisplayNameFor(model => model.BrandName)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th> @Html.DisplayNameFor(model => model.BrandOrder)</th>
+            <th>Action</th>
+    </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.BrandName)</td>
+                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>@Html.DisplayFor(modelItem => item.BrandOrder)</td>
+                  <td>
+                    <a asp-action="Edit" asp-route-id="@item.BrandID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.BrandID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.BrandID">Delete</a>
+                  </td>
+            </tr>
+        } 
+  </table>
+</div>

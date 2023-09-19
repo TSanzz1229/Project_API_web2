@@ -1,0 +1,20 @@
+﻿@model IEnumerable<PhoneShopASPnet.Models.Category>
+
+<!-- SEARCH BAR -->
+<div class="col-md-6">
+	<div class="header-search">
+		<form asp-controller="Products" asp-action="ProductSearch">
+			<select name="catID" class="input-select">
+				<option value="0"> Tất cả</option>
+				@foreach (var item in Model)
+				{
+					<option value="@item.CategoryID">@item.CategoryName</option>
+				}
+
+			</select>
+			<input class="input" name="searchString" placeholder="Search here">
+			<button class="search-btn">Search</button>
+		</form>
+	</div>
+</div>
+<!-- /SEARCH BAR -->

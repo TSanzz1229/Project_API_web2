@@ -1,0 +1,44 @@
+﻿@model IEnumerable<PhoneShopASPnet.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+<h1> Products Manage </h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="w3-container">
+    <table class="w3-table-all w3-hoverable">
+        <tr class="w3-light-grey">
+            <th> @Html.DisplayNameFor(model => model.ProductName)</th>
+            <th> @Html.DisplayNameFor(model => model.ProductPrice)</th>
+            <th> @Html.DisplayNameFor(model => model.Description)</th>
+            <th>@Html.DisplayNameFor(model => model.ProductQuantity)</th>
+            <th>@Html.DisplayNameFor(model => model.ProductImage)</th>
+            <th>@Html.DisplayNameFor(model => model.Category)</th>
+            <th>@Html.DisplayNameFor(model => model.Brand)</th>
+            <th> Action </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.ProductName)</td>
+                <td>@Html.DisplayFor(modelItem => item.ProductPrice)</td>
+                <td>@Html.DisplayFor(modelItem => item.Description)</td>
+                <td>@Html.DisplayFor(modelItem => item.ProductQuantity)</td>
+                <td>@Html.DisplayFor(modelItem => item.ProductImage)</td>
+                <td> @Html.DisplayFor(modelItem => item.Category.CategoryName)</td>
+                <td> @Html.DisplayFor(modelItem => item.Brand.BrandName)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ProductID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ProductID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ProductID">Delete</a>
+                </td>
+            </tr>
+        }
+    </table>
+</div>

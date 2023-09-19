@@ -1,0 +1,38 @@
+﻿@model IEnumerable<PhoneShopASPnet.Models.Users>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+<h1> User Manage </h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<div class="w3-container">
+    <table class="w3-table-all w3-hoverable">
+        <tr class="w3-light-grey">
+            <th> @Html.DisplayNameFor(model => model.UserName)</th>
+            <th>@Html.DisplayNameFor(model => model.UserEmail)</th>
+            <th> @Html.DisplayNameFor(model => model.PassWord)</th>
+            <th> @Html.DisplayNameFor(model => model.UserRole)</th>
+            <th>Action</th>
+    </tr>
+        @foreach (var item in Model)
+        {
+                <tr>
+                <td>@Html.DisplayFor(modelItem => item.UserName)</td>
+                <td>@Html.DisplayFor(modelItem => item.UserEmail)</td>
+                <td>@Html.DisplayFor(modelItem => item.PassWord)</td>
+                <td>@Html.DisplayFor(modelItem => item.UserRole)</td>
+                      <td>
+                        <a asp-action="Edit" asp-route-id="@item.UserID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.UserID">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.UserID">Delete</a>
+                      </td>
+                </tr>
+        } 
+  </table>
+</div>

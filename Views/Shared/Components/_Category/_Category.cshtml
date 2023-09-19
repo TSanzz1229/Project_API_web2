@@ -1,0 +1,24 @@
+﻿@model IEnumerable<PhoneShopASPnet.Models.Category>
+
+<nav id="navigation">
+	<!-- container -->
+	<div class="container">
+		<!-- responsive-nav -->
+		<div id="responsive-nav">
+			<!-- NAV -->
+			<ul class="main-nav nav navbar-nav">
+				<li class="active"><a href="/Home/Index">Trang chủ</a></li>
+				<li><a href="#">1</a></li>
+				<li><a href="#">2</a></li>
+				@foreach (var item in Model)
+				{
+					<li><a href="/Products/ProductByCategory?cateID=@item.CategoryID">@item.CategoryName</a></li>
+				}
+			</ul>
+			<!-- /NAV -->
+		</div>
+		<!-- /responsive-nav -->
+	</div>
+	<!-- /container -->
+</nav>
+
